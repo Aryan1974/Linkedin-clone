@@ -7,7 +7,14 @@ import { getStorage } from "firebase/storage";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-const firebaseConfig = {};
+const firebaseConfig = {
+  apiKey: "AIzaSyDb-p4tNsGdiWCJgmRP4ktYxA-0vkmaDnQ",
+  authDomain: "linkedin-5c307.firebaseapp.com",
+  projectId: "linkedin-5c307",
+  storageBucket: "linkedin-5c307.firebasestorage.app",
+  messagingSenderId: "880777563483",
+  appId: "1:880777563483:web:75ea60b7cd310956c41e7e",
+};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
