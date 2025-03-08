@@ -34,7 +34,7 @@ npm start
 ```
 
 ## 🌐 Deployment
-The project is deployed and accessible at: **[Live Demo](https://your-deployed-link.com)**
+The project is deployed and accessible at: **[Live Demo](https://projectfor.netlify.app/home)**
 
 ## 🎯 How to Use
 1. **Sign up/Login** with your email.
