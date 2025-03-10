@@ -14,9 +14,8 @@ A **LinkedIn Replica** built using **React.js**, enabling users to create profil
 ## 🛠 Tech Stack
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
 - **Authentication:** Firebase/Auth0
-- **Deployment:** GitHub Pages / Vercel
+- **Deployment:** GitHub Pages / Netlify
 
 ## 📂 Installation & Setup
 ```sh
@@ -30,7 +29,7 @@ cd Linkedin-clone
 npm install
 
 # Start the development server
-npm start
+npm run dev
 ```
 
 ## 🌐 Deployment
